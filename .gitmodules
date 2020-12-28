@@ -1,0 +1,6 @@
+[submodule "BmiCalc"]
+	path = BmiCalc
+	url = https://github.com/TheRealHarneet/BmiCalc.git
+[submodule "Rockpaperscissors"]
+	path = Rockpaperscissors
+	url = https://github.com/TheRealHarneet/Rockpaperscissors.git
