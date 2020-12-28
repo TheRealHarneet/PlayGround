@@ -4,3 +4,6 @@
 [submodule "Rockpaperscissors"]
 	path = Rockpaperscissors
 	url = https://github.com/TheRealHarneet/Rockpaperscissors.git
+[submodule "Hangman"]
+	path = Hangman
+	url = https://github.com/TheRealHarneet/Hangman.git
